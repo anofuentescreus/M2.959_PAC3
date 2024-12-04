@@ -15,14 +15,7 @@ Les visualitzacions generades per aquesta pràctica es poden consultar en els se
 - [Basic scatter plot](https://public.flourish.studio/visualisation/20582973/)
 
 ## Arxius del codi font
-Els arxius utilitzats per al projecte estan organitzats en el següent directori:
-
-- **source/main.py**: Punt d'entrada del programa. Genera les dades que s'utilitzen en les visualitzacions.
-- **source/data_processing.py**: Conté funcions per a la neteja i la transformació de les dades d'entrada.
-- **source/export_to_flourish.py**: Implementa el procés d'exportació de les dades en format compatible amb Flourish.
-
-## Com executar el projecte
-1. Clona el repositori al teu ordinador:
-   ```bash
-   git clone https://github.com/anofuentescreus/M2.959_PAC3.git
+- **source/**: Conté el codi R utilitzat per transformar les dades del dataset original. Hi ha dos scripts:
+  - `heatmap_scatterplot.R`: Codi per processar les dades per les visualitzacions del Heatmap i el Basic scatter plot.
+  - `bar_chart_stacked.R`: Codi per transformar les dades per la visualització del Bar chart stacked.
 
