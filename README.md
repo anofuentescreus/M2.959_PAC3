@@ -1,4 +1,4 @@
-# PAC3 Visualització de dades
+# PAC3: Visualització de dades
 
 ## Descripció
 Aquesta pràctica s'ha realitzat en el context de l'assignatura **Visualització de dades**, pertanyent al **Màster en Ciència de Dades de la Universitat Oberta de Catalunya**. En aquesta activitat, s'ha utilitzat **R** per processar i transformar les dades d'un dataset original, i posteriorment, s'han emprat eines de visualització com **Flourish** per convertir aquestes dades en representacions gràfiques interactives i intuïtives.
